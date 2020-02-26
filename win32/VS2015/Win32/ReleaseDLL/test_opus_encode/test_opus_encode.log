@@ -1,0 +1,3 @@
+﻿  opus_encode_regressions.c
+  test_opus_encode.c
+  test_opus_encode.vcxproj -> C:\Users\Sushrut.Tadwalker\Desktop\opus\opus\win32\VS2015\Win32\ReleaseDLL\test_opus_encode.exe
